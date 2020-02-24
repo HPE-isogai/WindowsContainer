@@ -1,7 +1,9 @@
 ## links
-https://kubernetes.io/docs/setup/production-environment/windows/intro-windows-in-kubernetes/
+https://kubernetes.io/docs/setup/production-environment/windows/intro-windows-in-kubernetes/  
+https://kubernetes.io/docs/setup/production-environment/windows/user-guide-windows-nodes/
 https://kubernetes.io/docs/setup/production-environment/windows/user-guide-windows-containers/'
-https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/hyperv-container
+https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/hyperv-container  
+
 
 ## FAQ
 ```
